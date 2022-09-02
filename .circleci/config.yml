@@ -16,6 +16,7 @@ jobs:
           root: ~/project
           paths:
             - .
+
 workflows:
   tests:
     jobs:
